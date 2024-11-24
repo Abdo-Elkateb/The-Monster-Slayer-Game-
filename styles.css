@@ -72,6 +72,17 @@ button {
   cursor: pointer;
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.26);
 }
+.start-game {
+  font: inherit;
+  background-color: #09ec7a;
+  color: #fff;
+  font-weight: 900;
+  border-radius: 12px;
+  margin: 1rem;
+  width: 12rem;
+  cursor: pointer;
+  border: none;
+}
 
 button:focus {
   outline: none;
